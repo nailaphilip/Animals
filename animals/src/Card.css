@@ -1,0 +1,32 @@
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(241, 203, 147);
+    border-radius: 5px;
+    border-color: brown;
+    border-style: solid;
+    margin: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: o.3s;
+   
+
+}
+
+img {
+    width: 70%;
+    padding: 5px;
+    size: 50px;
+    
+
+}
+
+.likes_container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.remove {
+    margin-top: 1px;
+    margin-right: 2px;
+}
