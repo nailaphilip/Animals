@@ -1,0 +1,29 @@
+.animals {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    padding: 10px;
+    
+
+
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
